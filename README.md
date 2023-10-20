@@ -1,8 +1,13 @@
-# React + Vite
+# Country Api
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+``this API provides comprehensive information about countries, including details such as name, capital, population, area, languages, currencies, time zones, borders, and more. It offers endpoints to fetch data based on specific criteria like country codes, regions, and languages.``
 
-Currently, two official plugins are available:
+- [@vitejs/plugin-react-swc](https://restcountries.com/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Features
+
+````markdown
+1.Fetch Countries Data
+2.Detail Page
+3.Filter Countries with thier Continents
+````
